@@ -1,0 +1,68 @@
+Разде_1. Консолидированные ресурсы об ICO
+•	Биржа
+https://www.bitforex.com/ru/spot/btc_usdt #as forex
+https://international.bittrex.com/ #строгая система верификации
+https://support.cryptopia.co.nz/csm  #Новая Зеландия (NZ)
+https://hitbtc.com/ #Дания
+https://www.coinbase.com/ #bigger
+https://p2pb2b.io/trade #good
+https://www.bituniverse.org/
+https://poloniex.com/
+
+•	ICO-listing
+https://icobench.com #удобный фильтр
+http://www.icocountdown.com/ #timing out
+https://icorating.com/
+https://icotracker.net/past
+https://tokenmarket.net/ico-calendar
+https://www.coinist.io # календарь, сравнение, графики и т.д. 5+
+https://icowatchlist.com/finished #Позволяет сравнивать
+https://neironix.io/ru/ico-rating # русский сайт
+https://tokenmarket.net/ # покупка
+https://www.ico-list.com/ #
+https://cryptototem.com/ico-list/pre-ico/ #pre-ico
+https://icobazaar.com/v2/ico-list
+https://tokentops.com/stats/
+https://icodrops.com/
+https://ico-digest.com/
+
+•	Аналитика
+https://www.smithandcrown.com/sale/ не глубокий анализ, прогон по стандартной модели
+https://bitinfocharts.com/ru/
+https://blog.icoalert.com/tag/ico-insights # исследование 
+https://www.tokendata.io/advanced
+
+•	Информационный
+https://www.coindesk.com/
+https://www.sec.gov/ICO # комиссия США по ценным бумагам
+https://github.com/avadhootkulkarni/UltimateICOCalendar #Календарь
+http://bitstat.top/index.php?id_r=4
+https://www.reddit.com/r/icocrypto/ # people talk + moderator
+https://www.coinschedule.com/ #нужно повнимательней посмотреть – подходит?
+https://revain.org/ # отзывы о криптовалюте. Сам сервис основан на Blockchain  и реализован через ICO.
+https://bitcointalk.org/ # forum
+
+
+Раздел_2. Конкретные ICO
+•	Мошеники
+https://www.centra.tech/ # https://www.sec.gov/litigation/complaints/2018/comp-pr2018-53.pdf
+
+•	Перспективные
+https://tardigrade.io/
+https://www.firstblood.io/
+•	Успешные
+https://golem.network/
+https://stratisplatform.com/ прибыль 50000%
+https://z.cash/ # Конфиденциальность, безопасность. 
+https://www.sec.gov/Archives/edgar/data/1729650/000095017218000030/xslFormDX01/primary_doc.xml # TELEGRAM
+https://www.bancor.network/ # 
+https://neo.org/ #китайский
+https://ethereum.org/
+https://www.nxter.org/bcnexts-nxt/
+https://litecoin.com/en/
+https://namecoin.org/
+https://sia.tech/
+https://steemit.com/
+https://steem.com/ # социальный блокчейн
+http://filecoin.io/ #file_HDD
+https://storj.io/partners/ #file_HDD
